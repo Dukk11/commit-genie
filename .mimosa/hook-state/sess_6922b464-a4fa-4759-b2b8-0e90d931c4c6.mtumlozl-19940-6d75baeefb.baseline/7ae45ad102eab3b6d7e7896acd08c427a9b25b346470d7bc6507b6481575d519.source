@@ -1,0 +1,39 @@
+{
+  "name": "commit-genie",
+  "version": "1.0.0",
+  "description": "✨ AI-powered git commit messages from your staged diff — 100% free with local Ollama, or fully offline via smart heuristics. Zero dependencies.",
+  "type": "module",
+  "main": "bin/commit-genie.js",
+  "bin": {
+    "commit-genie": "bin/commit-genie.js"
+  },
+  "scripts": {
+    "test": "node --test test/",
+    "start": "node bin/commit-genie.js --help"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "ai",
+    "ollama",
+    "conventional-commits",
+    "cli",
+    "developer-tools",
+    "llm",
+    "copilot",
+    "commit-message"
+  ],
+  "author": "Duk",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/commit-genie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/commit-genie/issues"
+  },
+  "homepage": "https://github.com/your-username/commit-genie#readme"
+}
