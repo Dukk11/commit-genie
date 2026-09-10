@@ -2,6 +2,7 @@
 
 [![CI](https://github.com/Dukk11/commit-genie/actions/workflows/ci.yml/badge.svg)](https://github.com/Dukk11/commit-genie/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-4f9cf9.svg)](LICENSE)
+[![npm](https://img.shields.io/npm/v/commit-genie-cli?label=npm)](https://www.npmjs.com/package/commit-genie-cli)
 [![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](package.json)
 [![built by Duk](https://img.shields.io/badge/built%20by-Duk%20%C2%B7%20dukdev.com-8e6ff7)](https://dukdev.com)
 
