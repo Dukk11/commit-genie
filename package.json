@@ -23,7 +23,10 @@
     "copilot",
     "commit-message"
   ],
-  "author": "Duk",
+  "author": {
+    "name": "Duk",
+    "url": "https://dukdev.com"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=18"

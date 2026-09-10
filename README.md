@@ -1,5 +1,10 @@
 # ✨ commit-genie
 
+[![CI](https://github.com/Dukk11/commit-genie/actions/workflows/ci.yml/badge.svg)](https://github.com/Dukk11/commit-genie/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-4f9cf9.svg)](LICENSE)
+[![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)](package.json)
+[![built by Duk](https://img.shields.io/badge/built%20by-Duk%20%C2%B7%20dukdev.com-8e6ff7)](https://dukdev.com)
+
 **AI-powered git commit messages — free forever.**
 
 Turn your staged diff into a clean [Conventional Commit](https://www.conventionalcommits.org) in under a second. Works **fully offline** out of the box, plugs into **local Ollama** for real AI (still free), or any OpenAI-compatible API. **Zero dependencies.**
@@ -111,3 +116,7 @@ npm test
 ## License
 
 [MIT](LICENSE) — free forever, for everyone.
+
+---
+
+Built with ⚡ by **[Duk](https://dukdev.com)** · [more open-source tools](https://github.com/Dukk11) · [dukdev.com](https://dukdev.com)
